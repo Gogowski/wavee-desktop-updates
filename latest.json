@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-03-23T00:15:59.7080078Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Gogowski/wavee-desktop-updates/main/artifacts/windows/Wavee_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1FVWkJkMGYzZGErUzhuNzJBRWFrT2VtNEplK2tJQzlKYzZqRHRGSTR4ZTZISEtEUFRWNWYvNzRYeWVuYUdMcVl0UHNiOUdrdmZPVXo1aGVCSHJCaDVpWEY4aG5Kb1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjI0OTU3CWZpbGU6V2F2ZWVfMC4xLjRfeDY0LXNldHVwLmV4ZQpGOU4rbWdXKytrY1FrMGNZdlhtQi9XL1pwVjFYNWt5Nm5pa0FaRFhyM3c5MnF3M1ZFMFdDemVLUnpyVnF5anVQSEsvSkllMDRzd3BnQXoxNkRFTG5CUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1FVWkJkMGYzZGNCYVcwbmdlSDZIVjRRSnF5bzF6VEtKQm1HamFXbGU0N25YbC9UaG5uWFBwUXR2QVphdlJlZ01wbmk0cXZwL2pYQ0VyUFF2MEFJVFJXaURMNWRTMlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzM4NDA0CWZpbGU6V2F2ZWVfMC4xLjRfeDY0LXNldHVwLmV4ZQo5UTZFTzZYM296SmZ4OUdLU3VBMEFkbUFvcWlUWDdNbUhMRG5qNk1tY1lKTi9wQnlVejVValFKOXFnaUo1NFBQelVBQjFjQnZIYzVDZUxReVFCSlRCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Gogowski/wavee-desktop-updates/main/artifacts/windows/Wavee_0.1.4_x64-setup.exe"
     }
   },
   "version": "0.1.4",
+  "pub_date": "2026-03-24T07:46:50.5262609Z",
   "notes": ""
 }
